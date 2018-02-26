@@ -12,7 +12,7 @@ Feng Zhu, Hongsheng Li, Wanli Ouyang, Nenghai Yu, Xiaogang Wang, "Learning Spati
 
 ## Prepare data
 
-- Download [train/test split files](https://drive.google.com/open?id=0B7lJth6WXHffVnQzaWRmV1Vod1E) for NUS-WIDE, MS-COCO and WIDR-Attribute, and extract it to `datasets/`.
+- Download train/test split files ([Google Drive](https://drive.google.com/open?id=0B7lJth6WXHffVnQzaWRmV1Vod1E), [BaiduYun](https://pan.baidu.com/s/1c3R7Yxi)) for NUS-WIDE, MS-COCO and WIDR-Attribute, and extract it to `datasets/`.
 - Download dataset images
 	* [NUS-WIDE](http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm): this dataset contains many untagged images, and some download links are invalid now. By removing invalid and untagged images, we finally get 119,986 images for training and 80,283 images for testing.
 	* [MS-COCO_2014](http://mscoco.org/dataset/#download): 82,783 images in "train2014" for training, and 40,504 images in "val2014" for testing.
@@ -38,7 +38,7 @@ See Yuanjun Xiong's [github](https://github.com/yjxiong/caffe) for building this
 	
 ## Run Training
 
-- Download [training scripts](https://drive.google.com/open?id=0B7lJth6WXHffTzdwWEZTdTVSNWs), and extract it to `training_script/`.
+- Download training scripts ([Google Drive](https://drive.google.com/open?id=0B7lJth6WXHffTzdwWEZTdTVSNWs), [BaiduYun](https://pan.baidu.com/s/1dGEEGWp)), and extract it to `training_script/`.
 
 - Edit paths in the scripts.
 
