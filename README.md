@@ -21,7 +21,7 @@ Feng Zhu, Hongsheng Li, Wanli Ouyang, Nenghai Yu, Xiaogang Wang, "Learning Spati
 	* the released models containing: 
 		- trained models for NUS-WIDE, MS-COCO and WIDR-Attribute.
 		- a ResNet-101 model pretrained on ImageNet.
-- (Optional) Download [reference classification results](https://drive.google.com/open?id=0B7lJth6WXHffc0NGSmJidkNjS2M), and extract it to `results/`.
+- (Optional) Download reference classification results ([Google Drive](https://drive.google.com/open?id=0B7lJth6WXHffc0NGSmJidkNjS2M), [BaiduYun](https://pan.baidu.com/s/1dGgiM6P)), and extract it to `results/`.
 
 ## Build ##
 
