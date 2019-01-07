@@ -1,5 +1,5 @@
 # Spatial Regularization Network
-This repository contains testing code and trained models for 
+This repository contains training code, testing code and trained models for 
 
 Feng Zhu, Hongsheng Li, Wanli Ouyang, Nenghai Yu, Xiaogang Wang, "Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification", CVPR 2017. [pdf](https://arxiv.org/abs/1702.05891). 
 
